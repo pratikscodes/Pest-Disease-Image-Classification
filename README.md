@@ -1,2 +1,2 @@
 # Pest-Disease-Image-Classification
-Deep Learning based Pest Disease Classification by Training CNN model, 
+Deep Learning based Pest Disease Classification by Training CNN model. 
